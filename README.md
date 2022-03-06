@@ -2,4 +2,4 @@
 
 Rank: 10 Threeesome
 
-Problem sovled: 5
+Problem solved: 5
